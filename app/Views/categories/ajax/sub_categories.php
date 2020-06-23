@@ -1,6 +1,6 @@
 <?php if(isset($sub_cats) && count($sub_cats) > 0): ?>
 <select class="custom-select my-1 mr-sm-2 cat_select">
-    <option selected disabled>Choose Parent Category</option>
+    <option selected disabled>Choose Sub Category</option>
 
 
         <?php foreach ($sub_cats as $val) : ?>
