@@ -9,6 +9,6 @@
 - Internet connection required for the cdns.
 - Controller name -> CategoriesController.php | model name -> Category | views in /categories path.
 
-## BIG NOTE: It's My First Time Working With Codeignitor
+## BIG NOTE: It's My First Time Working With Codeignitor :)
 
 
